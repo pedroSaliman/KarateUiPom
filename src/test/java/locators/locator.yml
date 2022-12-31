@@ -1,0 +1,4 @@
+LoginPage:
+  username: "#user-name"
+  password: "#password"
+  Button: "#login-button"

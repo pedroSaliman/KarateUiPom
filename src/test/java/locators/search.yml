@@ -1,0 +1,4 @@
+SearchPage:
+  searchbar: "input[placeholder='Search']"
+
+
